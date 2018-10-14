@@ -2,3 +2,5 @@
 pkg/api
 cmd/server/server
 cmd/client-grpc/client-grpc
+cmd/client-rest/client-rest
+api/swagger
